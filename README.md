@@ -1,2 +1,1 @@
-# MyFirstWebComponent
-Rating bar web component
+My first web component using polymer 
